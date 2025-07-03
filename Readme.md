@@ -5,7 +5,7 @@ A lightweight MVP web app built for the **Walmart Sparkathon 2025**, allowing us
 ## 🌐 Live Demo & Walkthrough
 
 🔗 **Live App**: [Try it on GitHub Pages](https://your-username.github.io/your-repo-name)  
-🎥 **Demo Video**: [Watch on YouTube](https://youtube.com/your-video-link)
+🎥 **Demo Video**:  [Watch on YouTube](https://youtube.com/your-video-link)
 
 ## 🔍 Features
 
