@@ -95,9 +95,9 @@ Example:
 ![Footprint app preview](app_preview.png)  
 
 ## 👩‍💻 Author & Contributors
-Developed by: **Aleena Harold Peter** 
-
-UI/UX Design by: **Dhanushya S** & **Babina Babu**
+- 💻 **Aleena** – JavaScript, Logic, Map Integration, Architecture  
+- 🎨 **Dhanushya S** – CSS Design & Styling  
+- 🧩 **Babina Babu** – HTML Layout & UI Structure
 
 Built with 💚 for the Walmart Sparkathon 2025.
 
