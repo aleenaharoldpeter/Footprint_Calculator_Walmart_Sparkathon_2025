@@ -1,0 +1,19 @@
+{
+  "name": "google_agentic_ai",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "description": "A lightweight MVP web app built for the **Walmart Sparkathon 2025**, allowing users to estimate the carbon footprint of a product based on their locality. It also visualizes footprint data on a map and suggests eco-friendly tips per product.",
+  "directories": {
+    "doc": "docs"
+  }
+}

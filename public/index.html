@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Carbon Footprint App</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+</head>
+<body>
+  <div class="main-container">
+    <div class="left-panel">
+      <h1>🌱 Carbon Footprint</h1>
+      <input type="text" id="productInput" placeholder="Enter a product..." oninput="autoSuggest()" />
+      <ul id="suggestions" class="autocomplete-list"></ul>
+
+      <input type="text" id="locationInput" placeholder="Enter a locality..." oninput="autoSuggestLocality()" />
+      <ul id="localitySuggestions" class="autocomplete-list"></ul>
+
+      <button onclick="getCombinedFootprint()">Get Carbon Footprint</button>
+
+      <div class="result-box" id="resultBox"></div>
+    </div>
+
+    <div class="right-panel">
+      <div id="map"></div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
